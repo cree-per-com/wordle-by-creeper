@@ -1,0 +1,32 @@
+footer {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.keyboard {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  margin-bottom: 8px;
+}
+.key-block {
+  width: 40px;
+  height: 60px;
+  border-radius: 5px;
+  background-color: #d3d6da;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.key-block-big {
+  width: 65px;
+  height: 60px;
+  border-radius: 5px;
+  background-color: #d3d6da;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
